@@ -1,0 +1,21 @@
+templateScript: /internet-banking/templates/pages/main.ftl
+renderType: freemarker
+visible: true
+title: Internet Banking template
+dialog: internet-banking:pages/main
+areas:
+  banner-section:
+    renderType: freemarker
+    availableComponents:
+      banner:
+        id: internet-banking:components/banner
+  # content-section:
+  #   renderType: freemarker
+  #   availableComponents:
+  #     banner:
+  #       id: internet-banking:components/banner
+  #     content-items-list:
+  #       id: one-pager-module:components/content-items-list
+  #     textImage:
+  #       id: one-pager-module:components/textImage
+# eof: areas

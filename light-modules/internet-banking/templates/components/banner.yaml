@@ -1,0 +1,4 @@
+templateScript: /internet-banking/templates/components/banner.ftl
+dialog: internet-banking:components/banner
+renderType: freemarker
+title: Dashboard Banner

@@ -1,0 +1,69 @@
+form:
+  label: Banner Section
+  tabs:
+    # - name: tabText
+    #   label: Texts
+    #   fields:
+    #     - name: title
+    #       class: info.magnolia.ui.form.field.definition.TextFieldDefinition
+    #       label: Title
+    #     - name: sectionName
+    #       class: info.magnolia.ui.form.field.definition.TextFieldDefinition
+    #       label: Section nav label
+    #       required: true
+    #       requiredErrorMessage: Enter label for section navigation.
+    #     - name: subText
+    #       class: info.magnolia.ui.form.field.definition.RichTextFieldDefinition
+    #       label: Sub title
+    - name: imageTab
+      label: Banner
+      fields:
+        - name: message
+          class: info.magnolia.ui.form.field.definition.TextFieldDefinition
+          label: Message
+        - name: messageColor
+          label: Message Color
+          class: info.magnolia.ui.form.field.definition.SelectFieldDefinition
+          options:
+            - name: white
+              label: White
+              value: white
+              selected: true
+            - name: yellow
+              label: Yellow
+              value: yellow
+        # - name: imageStyle
+        #   label: Style
+        #   class: info.magnolia.ui.form.field.definition.SelectFieldDefinition
+        #   options:
+        #     - name: roundedEdges
+        #       label: Rounded edges
+        #       value: roundedEdges
+        #       selected: true
+        #     - name: circle
+        #       label: Circle
+        #       value: circle
+        #     - name: rectangular
+        #       label: Rectangular
+        #       value: rectangular
+        - name: desktopBanner
+          class: info.magnolia.ui.form.field.definition.LinkFieldDefinition
+          targetWorkspace: dam
+          appName: assets
+          identifierToPathConverter:
+            class: info.magnolia.dam.app.assets.field.translator.AssetCompositeIdKeyTranslator
+          contentPreviewDefinition:
+            contentPreviewClass: info.magnolia.dam.app.ui.field.DamFilePreviewComponent
+          label: Desktop Banner
+        - name: mobileBanner
+          class: info.magnolia.ui.form.field.definition.LinkFieldDefinition
+          targetWorkspace: dam
+          appName: assets
+          identifierToPathConverter:
+            class: info.magnolia.dam.app.assets.field.translator.AssetCompositeIdKeyTranslator
+          contentPreviewDefinition:
+            contentPreviewClass: info.magnolia.dam.app.ui.field.DamFilePreviewComponent
+          label: Mobile Banner
+ 
+ 
+actions: !include /internet-banking/dialogs/common/default-dialog-actions.yaml

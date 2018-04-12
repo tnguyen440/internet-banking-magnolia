@@ -1,0 +1,53 @@
+Magnolia REST Tools 1.2.2
+Copyright 2017 Magnolia International Ltd.
+
+This product includes/uses software(s) developed by 'an unknown organization'
+  - swagger-core (https://github.com/swagger-api/swagger-core)
+      License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - swagger-jaxrs (https://github.com/swagger-api/swagger-core)
+      License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - swagger-models (https://github.com/swagger-api/swagger-core)
+      License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+  - Bean Validation API (http://beanvalidation.org)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software(s) developed by 'Andrey Somov' (https://bitbucket.org/asomov/snakeyaml)
+  - SnakeYAML
+      License: Apache License Version 2.0  (LICENSE.txt)
+
+This product includes/uses software(s) developed by 'FasterXML' (http://fasterxml.com/)
+  - Jackson-annotations (http://github.com/FasterXML/jackson)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-core (https://github.com/FasterXML/jackson)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - jackson-databind (http://github.com/FasterXML/jackson)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-dataformat-XML (http://wiki.fasterxml.com/JacksonExtensionXmlDataBinding)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-dataformat-YAML (https://github.com/FasterXML/jackson)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-datatype-Joda (http://wiki.fasterxml.com/JacksonModuleJoda)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-JAXRS-base (http://wiki.fasterxml.com/JacksonHome)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-JAXRS-JSON (http://wiki.fasterxml.com/JacksonHome)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Jackson-module-JAXB-annotations (http://wiki.fasterxml.com/JacksonJAXBAnnotations)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software(s) developed by 'fasterxml.com' (http://fasterxml.com)
+  - Stax2 API (http://wiki.fasterxml.com/WoodstoxStax2)
+      License: The BSD License  (http://www.opensource.org/licenses/bsd-license.php)
+
+This product includes/uses software(s) developed by 'Joda.org' (http://www.joda.org)
+  - Joda time (http://joda-time.sourceforge.net)
+      License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software(s) developed by 'Swagger' (http://swagger.io)
+  - swagger-annotations
+      License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+This product includes/uses software(s) developed by 'The Apache Software Foundation' (http://www.apache.org/)
+  - Commons Lang (http://commons.apache.org/lang/)
+      License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
