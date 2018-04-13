@@ -1,26 +1,12 @@
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 15:44:21 -- User superuser successfully activated internet-banking on magnoliaPublic.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 15:54:03 -- User superuser successfully activated dashboard on magnoliaPublic.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 15:56:10 -- User superuser successfully activated superuser on magnoliaPublic.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 15:56:16 -- User superuser successfully activated anonymous on magnoliaPublic.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:02:36 -- User superuser successfully activated rest on magnoliaPublic.
-INFO   info.magnolia.module.activation.BaseSyndicatorImpl 12.04.2018 16:03:24 -- Exchange: activation succeeded [/system/superuser]
-INFO   info.magnolia.module.activation.BaseSyndicatorImpl 12.04.2018 16:03:27 -- Exchange: activation succeeded [/system/anonymous]
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:07:33 -- User superuser successfully activated superuser on magnoliaPublic.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:07:46 -- User superuser successfully activated read-internet-banking on magnoliaPublic.
-INFO   info.magnolia.module.activation.BaseSyndicatorImpl 12.04.2018 16:08:20 -- Exchange: activation succeeded [/system/anonymous]
-WARN   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:16:58 -- Unable to delete node with UUID: 908c541e-c26c-4bb9-a7f7-3355b88ccda7 in workspace config. Node not found on public instance.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:16:58 -- User superuser successfully deactivated null on magnoliaPublic.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:23:18 -- User superuser successfully activated HeaderFilterOne on magnoliaPublic.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:23:22 -- User superuser successfully activated HeaderFilterOne on magnoliaPublic.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:28:14 -- User superuser successfully activated anonymous on magnoliaPublic.
-INFO   info.magnolia.module.activation.BaseSyndicatorImpl 12.04.2018 16:28:46 -- Exchange: activation succeeded [/anonymous]
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:44:08 -- User superuser successfully activated cors on magnoliaPublic.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:44:10 -- User superuser successfully activated cors on magnoliaPublic.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:55:09 -- User superuser successfully deactivated /server/filters/cors on magnoliaPublic.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:55:14 -- User superuser successfully activated cors on magnoliaPublic.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:55:19 -- User superuser successfully deactivated /server/filters/cors on magnoliaPublic.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:55:27 -- User superuser successfully activated HeaderFilterOne on magnoliaPublic.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:56:50 -- User superuser successfully deactivated /server/filters/HeaderFilterOne on magnoliaPublic.
-WARN   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:56:56 -- Unable to delete node with UUID: 5d64e075-a4a8-4585-94cd-e3b4c5b6447c in workspace config. Node not found on public instance.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:56:56 -- User superuser successfully deactivated null on magnoliaPublic.
-INFO   info.magnolia.module.activation.ReceiveFilter 12.04.2018 16:57:11 -- User superuser successfully activated cors on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 13.04.2018 10:24:22 -- User superuser successfully activated internet-banking on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 13.04.2018 10:24:22 -- User superuser successfully activated Dashboard on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 13.04.2018 10:26:02 -- User superuser successfully activated rest-anonymous on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 13.04.2018 10:27:46 -- User superuser successfully activated superuser on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 13.04.2018 10:28:01 -- User superuser successfully activated anonymous on magnoliaPublic.
+INFO   info.magnolia.module.activation.BaseSyndicatorImpl 13.04.2018 10:28:40 -- Exchange: activation succeeded [/system/anonymous]
+INFO   info.magnolia.module.activation.ReceiveFilter 13.04.2018 10:30:20 -- Moving content from /internet-banking/Dashboard to /internet-banking/dashboard due to activation request.
+INFO   info.magnolia.module.activation.ReceiveFilter 13.04.2018 10:30:20 -- User superuser successfully activated dashboard on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 13.04.2018 10:32:47 -- User superuser successfully activated rest-anonymous on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 13.04.2018 10:33:09 -- User superuser successfully activated anonymous on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 13.04.2018 11:21:02 -- User superuser successfully activated rest-anonymous on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 13.04.2018 15:18:32 -- User superuser successfully activated IPConfig on magnoliaPublic.
